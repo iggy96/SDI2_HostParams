@@ -1,0 +1,254 @@
+{
+    "Version": "2.0.7",
+    "WavesSettings": {
+        "tornadoSettings": {
+            "isTornadoActive": true,
+            "tornadoAppearanceTime": 10.0,
+            "tornadoTravelSpeed": 5,
+            "tornadoRotationSpeed": 5,
+            "tornadoGrowthRate": 1
+        },
+        "fogSettings": {
+            "isFogActive": true,
+            "fogAppearanceTimes": [
+                10.0
+            ],
+            "fogDurationTime": 60.0
+        },
+        "rainSettings": {
+            "isRainActive": false,
+            "rainAppearanceTimes": [],
+            "rainFallDuration": 0.0,
+            "riverRiseSpeed": 0.0,
+            "riverDrainSpeed": 0.0
+        },
+        "cannonSettings": {
+            "cannonLaunchForce": 500.0,
+            "cannonRotationSpeed": 100.0,
+            "cannonMaximumRocks": 10,
+            "cannonNumberOfTrajectoryPoints": 30
+        },
+        "prizeSettings": {
+            "lifeTimeOfShatteredPieces": 30.0,
+            "fruitFloatSpeed": 2.0,
+            "prizeYellowBoxIncrementValue": 5,
+            "prizeChestIncrementValue": 5
+        },
+        "playerAvatarCommsSettings": {
+            "messagesPerBottle": [
+                "Hello",
+                "How are you?",
+                "How are you?",
+                "How are you?",
+                "How are you?"
+            ],
+            "messageBottleAppearanceTimes": [
+                10.0,
+                20.0
+            ]
+        },
+        "otherSettings": {
+            "dinoFlightSpeed": 1.0,
+            "totalGameDurationInSeconds": 3600.0
+        }
+    },
+    "VolcanoSettings": {
+        "tornadoSettings": {
+            "isTornadoActive": true,
+            "tornadoAppearanceTime": 10.0,
+            "tornadoTravelSpeed": 5,
+            "tornadoRotationSpeed": 5,
+            "tornadoGrowthRate": 1
+        },
+        "fogSettings": {
+            "isFogActive": true,
+            "fogAppearanceTimes": [
+                10.0
+            ],
+            "fogDurationTime": 60.0
+        },
+        "rainSettings": {
+            "isRainActive": false,
+            "rainAppearanceTimes": [],
+            "rainFallDuration": 0.0,
+            "riverRiseSpeed": 0.0,
+            "riverDrainSpeed": 0.0
+        },
+        "cannonSettings": {
+            "cannonLaunchForce": 500.0,
+            "cannonRotationSpeed": 100.0,
+            "cannonMaximumRocks": 10,
+            "cannonNumberOfTrajectoryPoints": 30
+        },
+        "prizeSettings": {
+            "lifeTimeOfShatteredPieces": 30.0,
+            "fruitFloatSpeed": 2.0,
+            "prizeYellowBoxIncrementValue": 5,
+            "prizeChestIncrementValue": 5
+        },
+        "playerAvatarCommsSettings": {
+            "messagesPerBottle": [
+                "Hello",
+                "How are you?"
+            ],
+            "messageBottleAppearanceTimes": [
+                10.0,
+                20.0
+            ]
+        },
+        "otherSettings": {
+            "dinoFlightSpeed": 1.0,
+            "totalGameDurationInSeconds": 3600.0
+        }
+    },
+    "SantoriniSettings": {
+        "tornadoSettings": {
+            "isTornadoActive": true,
+            "tornadoAppearanceTime": 10.0,
+            "tornadoTravelSpeed": 5,
+            "tornadoRotationSpeed": 5,
+            "tornadoGrowthRate": 1
+        },
+        "fogSettings": {
+            "isFogActive": true,
+            "fogAppearanceTimes": [
+                10.0
+            ],
+            "fogDurationTime": 60.0
+        },
+        "rainSettings": {
+            "isRainActive": false,
+            "rainAppearanceTimes": [],
+            "rainFallDuration": 0.0,
+            "riverRiseSpeed": 0.0,
+            "riverDrainSpeed": 0.0
+        },
+        "cannonSettings": {
+            "cannonLaunchForce": 500.0,
+            "cannonRotationSpeed": 100.0,
+            "cannonMaximumRocks": 10,
+            "cannonNumberOfTrajectoryPoints": 30
+        },
+        "prizeSettings": {
+            "lifeTimeOfShatteredPieces": 30.0,
+            "fruitFloatSpeed": 2.0,
+            "prizeYellowBoxIncrementValue": 5,
+            "prizeChestIncrementValue": 5
+        },
+        "playerAvatarCommsSettings": {
+            "messagesPerBottle": [
+                "Hello",
+                "How are you?"
+            ],
+            "messageBottleAppearanceTimes": [
+                10.0,
+                20.0
+            ]
+        },
+        "otherSettings": {
+            "dinoFlightSpeed": 1.0,
+            "totalGameDurationInSeconds": 3600.0
+        }
+    },
+    "ShellSettings": {
+        "tornadoSettings": {
+            "isTornadoActive": true,
+            "tornadoAppearanceTime": 10.0,
+            "tornadoTravelSpeed": 5,
+            "tornadoRotationSpeed": 5,
+            "tornadoGrowthRate": 1
+        },
+        "fogSettings": {
+            "isFogActive": true,
+            "fogAppearanceTimes": [
+                10.0
+            ],
+            "fogDurationTime": 60.0
+        },
+        "rainSettings": {
+            "isRainActive": false,
+            "rainAppearanceTimes": [],
+            "rainFallDuration": 0.0,
+            "riverRiseSpeed": 0.0,
+            "riverDrainSpeed": 0.0
+        },
+        "cannonSettings": {
+            "cannonLaunchForce": 500.0,
+            "cannonRotationSpeed": 100.0,
+            "cannonMaximumRocks": 10,
+            "cannonNumberOfTrajectoryPoints": 30
+        },
+        "prizeSettings": {
+            "lifeTimeOfShatteredPieces": 30.0,
+            "fruitFloatSpeed": 2.0,
+            "prizeYellowBoxIncrementValue": 5,
+            "prizeChestIncrementValue": 5
+        },
+        "playerAvatarCommsSettings": {
+            "messagesPerBottle": [
+                "Hello",
+                "How are you?"
+            ],
+            "messageBottleAppearanceTimes": [
+                10.0,
+                20.0
+            ]
+        },
+        "otherSettings": {
+            "dinoFlightSpeed": 1.0,
+            "totalGameDurationInSeconds": 3600.0
+        }
+    },
+    "MiningCaveSettings": {
+        "tornadoSettings": {
+            "isTornadoActive": true,
+            "tornadoAppearanceTime": 10.0,
+            "tornadoTravelSpeed": 5,
+            "tornadoRotationSpeed": 5,
+            "tornadoGrowthRate": 1
+        },
+        "fogSettings": {
+            "isFogActive": true,
+            "fogAppearanceTimes": [
+                10.0
+            ],
+            "fogDurationTime": 60.0
+        },
+        "rainSettings": {
+            "isRainActive": false,
+            "rainAppearanceTimes": [],
+            "rainFallDuration": 0.0,
+            "riverRiseSpeed": 0.0,
+            "riverDrainSpeed": 0.0
+        },
+        "cannonSettings": {
+            "cannonLaunchForce": 500.0,
+            "cannonRotationSpeed": 100.0,
+            "cannonMaximumRocks": 10,
+            "cannonNumberOfTrajectoryPoints": 30
+        },
+        "prizeSettings": {
+            "lifeTimeOfShatteredPieces": 30.0,
+            "fruitFloatSpeed": 2.0,
+            "prizeYellowBoxIncrementValue": 5,
+            "prizeChestIncrementValue": 5
+        },
+        "playerAvatarCommsSettings": {
+            "messagesPerBottle": [
+                "Hello",
+                "How are you?-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names",
+                "How are you?-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names",
+                "How are you?-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names",
+                "How are you?-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names-- Bonus Games Settings Names"
+            ],
+            "messageBottleAppearanceTimes": [
+                10.0,
+                20.0
+            ]
+        },
+        "otherSettings": {
+            "dinoFlightSpeed": 1.0,
+            "totalGameDurationInSeconds": 3600.0
+        }
+    }
+}
